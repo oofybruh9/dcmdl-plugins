@@ -1,0 +1,9 @@
+{
+    "title": "SpotDL Plugin",
+    "description": "Adds SpotDL as an avaliable downloader",
+    "author": "oofybruh9",
+    "version": "0.1.0",
+    "download": "https://oofybruh9.is-a.dev/plugins/dcmdl/spotdl.py",
+    "download-mirror2": "https://raw.githubusercontent.com/oofybruh9/oofybruh9.github.io/refs/heads/main/plugins/dcmdl/spotdl.py",
+    "download-mirror3": "https://pastebin.com/raw/<random string>"
+}
