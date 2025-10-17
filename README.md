@@ -15,10 +15,9 @@ to do that, just develop a plugin, host it somewhere (e.g. website, github, past
 	"author":"<your name>",
 	"version":"<use any version type, preferrably semver>",
 	"download":"<main download>",
-	# you do not have to add mirrors, but preferrably do so
+	# you do not have to add mirrors, but preferrably do so (2 mirrors max)
 	"download-mirror2":"<mirror 1 download>",
 	"download-mirror3":"<mirror 2 download>",
-	# and so on...
 }
 ```
 all code (other than plugins not developed by oofybruh9) are licenced under GPLv3 :P
